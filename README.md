@@ -19,7 +19,6 @@ Sou desenvolvedor web, com as tecnologias REACT JS e JAVA.
 </p>
 
 <br/>
-<br/>
 <p align="center">
 🚀 Tecnologias
 </p>
