@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Ricard Beletatti <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 <p align="center">
-Sou desenvolvedor web, com as tecnologias REACT JS e JAVA.  
+Sou Analista de Software.  
 </p>
 
 <p align="center">
@@ -20,13 +20,9 @@ Sou desenvolvedor web, com as tecnologias REACT JS e JAVA.
 
 <br/>
 <p align="center">
-🚀 Tecnologias
+🚀 Tecnologias:
 </p>
 
 <p align="center">
-🌎 Front-end Web com REACT JS  
-</p>
-
-<p align="center">
-📡 Back-end com JAVA  
+🌎 FLUTTER | ☕ JAVA | 📡 KOTLIN
 </p>
