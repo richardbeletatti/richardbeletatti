@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Ricard Beletatti 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="center">Olá, eu sou Ricard Beletatti 😄 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 <p align="center">
 Sou Analista de Software na Motorola Mobility (uma Lenovo Company).  
