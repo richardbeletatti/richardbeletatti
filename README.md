@@ -26,3 +26,12 @@ Sou Analista de Software na Motorola Mobility (uma Lenovo Company).
 <p align="center">
 🌎 FLUTTER | ☕ JAVA | 📡 KOTLIN
 </p>
+
+<br/>
+<p align="center">
+👨‍💻 Especializando:
+</p>
+
+<p align="center">
+🌎 FLUTTER | 📡 KOTLIN
+</p>
