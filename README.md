@@ -33,5 +33,5 @@ Desenvolvimento Android e Apps
 </p>
 
 <p align="center">
-🌎 JETPACK COMPOSE | ☕ JAVA | 📡 KOTLIN
+🧩 COMPOSE | ☕ JAVA | 📡 KOTLIN
 </p>
