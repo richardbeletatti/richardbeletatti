@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Ricard Beletatti 😄 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 <p align="center">
-Sou Analista de Software na Motorola Mobility (uma Lenovo Company).  
+Sou Desenvolvedor de Software na Motorola Mobility (uma Lenovo Company).  
 </p>
 
 <p align="center">
@@ -33,5 +33,5 @@ Desenvolvimento Android e Apps
 </p>
 
 <p align="center">
-🧩 COMPOSE | ☕ JAVA | 📡 KOTLIN
+🧩 COMPOSE | ☕ JAVA | 📡 KOTLIN | 🌎 FLUTTER
 </p>
