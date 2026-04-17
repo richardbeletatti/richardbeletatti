@@ -20,18 +20,9 @@ Sou Desenvolvedor de Software na Motorola Mobility (uma Lenovo Company).
 
 <br/>
 <p align="center">
-👨‍💻 Especializando:
+👨‍💻 Expert em:
 </p>
 
 <p align="center">
-Desenvolvimento Android e Apps
-</p>
-
-<br/>
-<p align="center">
-🚀 Tecnologias:
-</p>
-
-<p align="center">
-🧩 COMPOSE | ☕ JAVA | 📡 KOTLIN | 🌎 FLUTTER
+🧩 COMPOSE | 📡 KOTLIN | ☕ JAVA | 🌎 SPRING BOOT
 </p>
